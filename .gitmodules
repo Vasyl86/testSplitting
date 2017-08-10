@@ -1,0 +1,3 @@
+[submodule "commonFiles"]
+	path = commonFiles
+	url = https://github.com/Vasyl86/commonFiles
